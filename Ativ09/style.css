@@ -1,0 +1,21 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+  background-color: #f5f5f5;
+}
+
+form {
+  background: white;
+  padding: 20px;
+  border-radius: 8px;
+  width: 400px;
+}
+
+div {
+  margin-bottom: 15px;
+}
+
+.erro {
+  color: red;
+  font-size: 0.9em;
+}
